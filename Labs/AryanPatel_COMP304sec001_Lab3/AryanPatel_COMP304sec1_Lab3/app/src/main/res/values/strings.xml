@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">AryanPatel_COMP304sec1_Lab3</string>
+    <string name="select_exercise">Select an Exercise to show the solution</string>
+    <string name="earthImg">Earth</string>
+    <string name="moonImg">Moon</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="cartoon_animation">cartoon-animation</string>
+    <string name="color1">Red</string>
+    <string name="color2">Yellow</string>
+    <string name="color3">Cyan</string>
+    <string name="line_thickness">Line Thickness</string>
+    <string name="clear_canvas">Clear</string>
+    <string name="arrow_keys">Arrow Keys</string>
+    <string name="line_color">Line Color</string>
+
+    <string-array name="thickness">
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+        <item>35</item>
+        <item>40</item>
+        <item>45</item>
+        <item>50</item>
+        <item>55</item>
+        <item>60</item>
+        <item>65</item>
+        <item>70</item>
+        <item>75</item>
+        <item>80</item>
+        <item>85</item>
+        <item>90</item>
+        <item>95</item>
+        <item>100</item>
+    </string-array>
+
+    <string-array name="rect_color_picker">
+        <item>Red</item>
+        <item>Black</item>
+        <item>Blue</item>
+    </string-array>
+</resources>

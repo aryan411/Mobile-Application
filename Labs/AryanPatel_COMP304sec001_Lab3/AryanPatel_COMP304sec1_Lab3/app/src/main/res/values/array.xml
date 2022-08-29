@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="exercise">
+        <item >Exercise 1</item>
+        <item >Exercise 2</item>
+        <item >Exercise 3</item>
+    </string-array>
+</resources>

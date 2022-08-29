@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">AryanPatel_COMP304sec1_Lab2</string>
+    <string name="Next">Next</string>
+    <string name="Check_Out">CheckOut</string>
+    <string name="Meat_Sea_Poultry_Food">Meat, Sea Foods and Poultry Foods</string>
+    <string name="Grains_Cereals">Grains and Cereals</string>
+    <string name="Fruits_Vegetables">Fruits and Vegetables</string>
+    <string name="Dairy_Food">Dairy Foods and Beverages</string>
+    <string name="Baked_Food">Baked Foods</string>
+    <string name="FoodType_Name">Food Type</string>
+    <string name="Check_1">Check 1</string>
+    <string name="Check_2">Check 2</string>
+    <string name="Check_3">Check 3</string>
+    <string name="Customer_Name">Customer Name</string>
+    <string name="Address">Address</string>
+    <string name="Phone">Phone Number</string>
+    <string name="Email_Address">Email Address</string>
+    <string name="Credit_Card_No">Credit Card No.</string>
+    <string name="Submit">Submit</string>
+    <string name="Please_Enter_Your_Information_Below">Please enter your information below:</string>
+    <string name="Food_Type">Food Type</string>
+    <string name="Order_Details">Order Details:</string>
+    <string name="Order_Confirm_Details">Order Confirmation Details:</string>
+    <string name="Food_Order_Items">Food Order Items</string>
+    <string name="Customer_Info">Customer Information</string>
+    <string name="Place_New_Order">Place New Order</string>
+    <string name="Payment_Option">Choose Payment Option:</string>
+    <string name="Cash">Cash</string>
+    <string name="Credit_Card">Credit Card</string>
+    <string name="Debit_Card">Debit Card</string>
+    <!-- Food type-->
+    <string-array name="Fd_Type_Array">
+        <item>Fruits and Vegetables</item>
+        <item>Grains and Cereals</item>
+        <item>Dairy Foods and Beverages</item>
+        <item>Meat, Sea Foods and Poultry Foods</item>
+        <item>Baked Foods</item>
+    </string-array>
+
+
+    <!-- Food Items by Food type-->
+    <string-array name="Food_Type_1">
+        <item>Apple: $10</item>
+        <item>Banana: $15</item>
+        <item>Cabbage: $7</item>
+    </string-array>
+
+    <string-array name="Food_Type_2">
+        <item>Breads: $10</item>
+        <item>Rice: $10</item>
+        <item>corn: $9</item>
+    </string-array>
+
+    <string-array name="Food_Type_3">
+        <item>Milk: $6</item>
+        <item>Coco-Cola: $5</item>
+        <item>Cheese: $10</item>
+    </string-array>
+
+    <string-array name="Food_Type_4">
+        <item>Roe: $15</item>
+        <item>Fish: $20</item>
+        <item>molluscs: $11</item>
+    </string-array>
+
+    <string-array name="Food_Type_5">
+        <item>Cake: $10</item>
+        <item>Candy: $10</item>
+        <item>Cookies: $15</item>
+    </string-array>
+</resources>

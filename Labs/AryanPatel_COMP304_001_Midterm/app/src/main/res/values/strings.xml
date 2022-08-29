@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AryanPatel_ COMP304_001_Midterm</string>
+    <string-array name="exe_type_array">
+        <item>Walking</item>
+        <item>Swimming</item>
+        <item>Running</item>
+        <item>Jumping Rope</item>
+        <item>Bike Riding</item>
+    </string-array>
+    <string name="show_graph">Show Graph</string>
+    <string name="A_H_A">Android Health App </string>
+    <string name="slt_exe">Select your option </string>
+    <string name="calories_activity_message">Calories Burned Due To: </string>
+</resources>

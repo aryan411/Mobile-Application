@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/green"
+    android:orientation="vertical"
+    tools:context=".ProfileFragment">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="60px"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:text="@string/name"
+        android:layout_marginLeft="12dp"
+        android:layout_marginBottom="5dp"
+        android:id="@+id/profile_name"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:text="@string/quaification"
+        android:layout_marginLeft="12dp"
+        android:layout_marginBottom="5dp"
+        android:textSize="60px"
+        android:textStyle="bold"
+        android:id="@+id/profile_qualification"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:text="@string/dreamjob"
+        android:layout_marginLeft="12dp"
+        android:layout_marginBottom="5dp"
+        android:textSize="60px"
+        android:id="@+id/profile_dreamjob"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:text="@string/hobby"
+        android:layout_marginLeft="12dp"
+        android:layout_marginBottom="5dp"
+        android:textSize="60px"
+        android:id="@+id/profile_hobby"/>
+
+</LinearLayout>

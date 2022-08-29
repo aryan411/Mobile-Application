@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DixitHihoriya_AryanPatel_COMP304Sec001_Lab05</string>
+    <string name="college_name">Centennial College</string>
+    <string name="message">Welcome</string>
+    <string name="st_directory">Student Directory</string>
+    <string name="addst">Add Student</string>
+    <string name="add">Add</string>
+    <string name="display">Display</string>
+    <string name="delete">Delete</string>
+    <string name="signin">Sign In</string>
+    <string name="signup">Sign Up</string>
+    <string name="register">Register</string>
+    <string name="name">Name</string>
+    <string name="id">Id</string>
+
+</resources>

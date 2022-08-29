@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+
+        android:id="@+id/foodType1"
+        android:title="Fruits and Vegetables"
+        android:orderInCategory="1"></item>
+    <item
+
+        android:id="@+id/foodType2"
+        android:title="Grains and Cereals"
+        android:orderInCategory="1"></item>
+    <item
+
+        android:id="@+id/foodType3"
+        android:title="Dairy Foods and Beverages"
+        android:orderInCategory="1"></item>
+    <item
+
+        android:id="@+id/foodType4"
+        android:title="Meat, Sea Foods and Poultry Foods"
+        android:orderInCategory="1"></item>
+    <item
+
+        android:id="@+id/foodType5"
+        android:title="Baked Foods"
+        android:orderInCategory="1"></item>
+
+</menu>

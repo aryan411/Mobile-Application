@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AryanPatel_COMP304_Final</string>
+    <string name="stockName">Stock Name</string>
+    <string name="deleteStock">Delete Stock</string>
+    <string name="insertB">Insert</string>
+    <string name="deleteB">Delete</string>
+    <string name="watchList">Watch List</string>
+    <string name="college">Centennial College</string>
+    <string name="exam">Final Exam</string>
+</resources>

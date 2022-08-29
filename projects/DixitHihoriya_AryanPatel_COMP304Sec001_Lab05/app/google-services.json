@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "899884874127",
+    "firebase_url": "https://assignment5-1d234-default-rtdb.firebaseio.com",
+    "project_id": "assignment5-1d234",
+    "storage_bucket": "assignment5-1d234.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899884874127:android:19ee1ec71e037ecceb73fa",
+        "android_client_info": {
+          "package_name": "com.example.dixithihoriya_aryanpatel_comp304sec001_lab05"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899884874127-vphdq1u3l40f6i4hkqibgpsipc84vb8r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsHZ3EBFZ3OvQs02Z8qWiRF7J5ik9HwUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899884874127-vphdq1u3l40f6i4hkqibgpsipc84vb8r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

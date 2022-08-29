@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/exe1"
+        android:title="Walking"
+        android:orderInCategory="1"></item>
+    <item
+        android:id="@+id/exe2"
+        android:title="Swimming"
+        android:orderInCategory="1"></item>
+    <item
+        android:id="@+id/exe3"
+        android:title="Running"
+        android:orderInCategory="1"></item>
+    <item
+        android:id="@+id/exe4"
+        android:title="Jumping Rope"
+        android:orderInCategory="1"></item>
+    <item
+        android:id="@+id/exe5"
+        android:title="Bike Riding"
+        android:orderInCategory="1"></item>
+</menu>

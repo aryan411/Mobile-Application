@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="1.0"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="50px"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:background="@color/white"
+        android:text="Lab Assignment1 - Exe2!"
+        android:id="@+id/title"/>
+
+
+    <fragment
+        android:name="com.example.aryanpatel_com304sec001_leb1_exe2.LifecycleFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/cycle_fragment"
+        android:layout_weight="0.5"/>
+    <fragment
+        android:name="com.example.aryanpatel_com304sec001_leb1_exe2.ProfileFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/profile_fragment"
+        android:layout_weight="0.5"/>
+
+</LinearLayout>

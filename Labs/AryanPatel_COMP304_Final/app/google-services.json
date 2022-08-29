@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1018534852381",
+    "project_id": "aryanpatel-comp304-final",
+    "storage_bucket": "aryanpatel-comp304-final.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018534852381:android:8752052791a7de0ec7d3f4",
+        "android_client_info": {
+          "package_name": "com.example.aryanpatel_comp304_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018534852381-lvteoebg5arua0jue0v3ldukct2og6cj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUCsCahI_WrdpPHukqEyp97TyCF2ysjPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018534852381-lvteoebg5arua0jue0v3ldukct2og6cj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

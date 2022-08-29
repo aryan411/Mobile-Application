@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:repeatMode="restart"
+    >
+    <rotate
+        android:fromDegrees="0"
+        android:toDegrees="0"
+        android:pivotX="50%"
+        android:pivotY="50%"
+        android:duration="10000" />
+    <translate
+        android:startOffset="0"
+        android:fromXDelta="0"
+        android:fromYDelta="0"
+        android:duration="3000"
+        android:toXDelta="90"
+        android:toYDelta="-1300"
+        />
+</set>
